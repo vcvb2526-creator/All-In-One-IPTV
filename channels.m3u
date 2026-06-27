@@ -6,7 +6,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_56000
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
 https://vtvgolive-wc2026.vtvdigital.vn/Wiurv42ULOxTUVjuGy5T4A/1782553344/vtv2/stream_720p.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="XemTV",VTV3
-https://vtvgolive-wc2026.vtvdigital.vn/y_gCF6xqhde9up59XlbkxA/1782628089/vtv3/stream_720p.m3u8
+https://cdn-live.vtv.vn/MpcLE8v1m93PZPE-tIAzGA/1782580309/live/vtv3/vtv3-720p.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="XemTV",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="XemTV",VTV5
@@ -15,6 +15,8 @@ https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png" group-title="XemTV",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1280px-VTV6_logo_2013_final.svg.png" group-title="XemTV",VTV6
+udp://@225.1.2.154:30120
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV",VTV Cần Thơ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="XemTV",VTV7
